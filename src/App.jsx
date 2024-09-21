@@ -1,10 +1,12 @@
 import React from 'react'
 import Navber from './Layouts/Navber'
+import Banner from './Layouts/Banner'
 
 const App = () => {
   return (
     <>
       <Navber/>
+      <Banner/>
     </>
   )
 }

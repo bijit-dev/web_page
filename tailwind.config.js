@@ -8,7 +8,8 @@ export default {
     extend: {
       colors: {
         'primary': '#BBBBCB',
-        'secondary':'#1C1E53'
+        'secondary': '#64FFDA',
+        'back':'#0A192F'
       },
       fontFamily: {
         'pop': ["Poppins"],

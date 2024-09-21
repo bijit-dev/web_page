@@ -10,7 +10,7 @@ const Banner = () => {
             <Container>
                 <Flex className='gap-2 items-center'>
                     <div className='w-3/5'>
-                        <h1 className='text-[27px] sm:text-[32px] md:text-[36px] lg:text-[40px]  xl:text-5xl pt-12 text-htext font-pop font-semibold md:pt-4 lg:pt-2 xl:pt-1 md:bg-6 lg:pb-1 pb-1 text-center'>HEY, I'M BIJIT DEB.</h1>
+                        <h1 className='text-[27px] sm:text-[32px] md:text-[36px] lg:text-[40px]  xl:text-5xl pt-12 text-htext font-pop font-semibold md:pt-4 lg:pt-2 xl:pt-1 md:bg-6 lg:pb-1 pb-1 '>HEY, I'M BIJIT DEB.</h1>
 
                         <h2 className='text-[27px] sm:text-[32px] md:text-[36px] lg:text-[40px]  xl:text-5xl pt-3 text-ptext font-pop font-semibold    md:bg-6 lg:pb-8 pb-4'>I build things for the web.</h2>
 

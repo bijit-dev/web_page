@@ -15,7 +15,7 @@ const Navber = () => {
             <div className='text-[#3b82f6] text-xl md:text-[24px] lg:text-text28 font-[Roboto Slab] font-semibold'>BIJIT DEB</div>
           </div>
 
-          <div className='w-1/2'>
+          <div className='w-[53%]'>
             <List/>
           </div>
           <div className='w-auto items-center'>

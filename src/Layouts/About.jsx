@@ -1,8 +1,14 @@
 import React from 'react'
+import Container from '../components/Container'
+import Flex from '../components/Flex'
 
 const About = () => {
   return (
-    <div>About</div>
+    <Container>
+      <Flex>
+        
+      </Flex>
+    </Container>
   )
 }
 

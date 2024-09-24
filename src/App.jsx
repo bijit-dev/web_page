@@ -1,15 +1,10 @@
 import React from 'react'
-import Navber from './Layouts/Navber'
-import Banner from './Layouts/Banner'
-import About from './Layouts/About'
 
 const App = () => {
   return (
-    <>
-      <Navber/>
-      <Banner />
-      <About/>
-    </>
+    <h1 className="text-3xl font-bold underline">
+      Hello world!
+    </h1>
   )
 }
 
